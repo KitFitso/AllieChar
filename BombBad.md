@@ -14,9 +14,13 @@ Bomb Deployment (Action)
 As an action, the user can reach into the bag and pull out a bomb to throw.
 
 _Range:_ 30 ft (normal) / 60 ft (disadvantage)
+
 _Explosion Radius:_ 10 ft
+
 _Save:_ DC 13 Dexterity
+
 _Damage:_ 2d6 fire damage on fail, half on success
+
 _Limit:_ 3 bombs per long rest (recharges magically)
 
 Bombs cannot be duplicated with magic or used by a Bag of Holding trick (like flipping it inside out).
@@ -28,9 +32,13 @@ Bombs cannot be duplicated with magic or used by a Bag of Holding trick (like fl
 Instead of standard bombs, the user may choose a bomb type when pulling one out (once unlocked):
 
 Bomb Type Effect
+
 _Standard Bomb_ 2d6 fire in 10-ft radius (default)
+
 _Smoke Bomb_ Creates a 20-ft-radius heavily obscured cloud for 1 minute
+
 _Flash Bomb_ Targets in 10 ft must succeed on DC 13 Con save or be blinded until the end of their next turn
+
 _Sticky Bomb_ On hit, it sticks to the target and explodes next turn, dealing 3d6 fire to them and anyone within 5 ft (no save)
 
 Unlocked via DM discretion (e.g., quest, crafting, leveling).
