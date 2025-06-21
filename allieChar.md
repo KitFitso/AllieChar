@@ -12,6 +12,45 @@ _Medium Rock, neutral neutral_
 | :-----: | :-----: | :-----: | :----: | :-----: | :-----: |
 | 16 (+3) | 12 (+1) | 16 (+3) | 8 (-1) | 13 (+1) | 10 (+0) |
 
+---
+
+## Actions
+
+### you crit on 19 and 20
+
+### you have action surge
+
+**_Longsword._** _Melee Weapon Attack:_ +5. _Hit:_ 1d8+3 damage
+
+**_Handaxe._** _Ranged Weapon Attack:_ 30 ft. +5. _Hit:_ 1d6+3 damage
+
+---
+
+## Bonus Actions
+
+**_Second Wind._** _Heal:_ 1d10 + 3 damage
+
+**_Club._** _Melee Weapon Attack:_ +5. _Hit:_ 1d6+3 damage
+
+**_Potion._** _Healing:_ 2d6 health
+
+**_Giant's Might_** Above
+
+---
+
+## Equipment
+
+- 1 **Bag of Holding**
+- 2 Handaxe
+- 10 torches
+- 1 tinderbox
+- 1 crowbar
+- 1 hammer
+- 10 pitons
+- 1 waterskin
+
+---
+
 **Senses** : - ft., Passive Perception 11
 
 **Languages** : Common
@@ -70,38 +109,3 @@ At 3rd level, you have learned how to imbue yourself with the might of giants. A
 - You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
 ---
-
-## Actions
-
-### you crit on 19 and 20
-
-### you have action surge
-
-**_Longsword._** _Melee Weapon Attack:_ +5. _Hit:_ 1d8+3 damage
-
-**_Handaxe._** _Ranged Weapon Attack:_ 30 ft. +5. _Hit:_ 1d6+3 damage
-
----
-
-## Bonus Actions
-
-**_Second Wind._** _Heal:_ 1d10 + 3 damage
-
-**_Club._** _Melee Weapon Attack:_ +5. _Hit:_ 1d6+3 damage
-
-**_Potion._** _Healing:_ 2d6 health
-
-**_Giant's Might_** Above
-
----
-
-## Equipment
-
-- 1 **Bag of Holding**
-- 2 Handaxe
-- 10 torches
-- 1 tinderbox
-- 1 crowbar
-- 1 hammer
-- 10 pitons
-- 1 waterskin
