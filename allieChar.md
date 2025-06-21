@@ -4,7 +4,7 @@ _Medium Rock, neutral neutral_
 
 **Armor Class** : 16
 
-**Hit Points** : 31 (d10)
+**Hit Points** : 31 (3d10)
 
 **Speed** : 30 ft.
 
